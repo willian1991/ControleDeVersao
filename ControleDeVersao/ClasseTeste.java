@@ -12,8 +12,4 @@ public class ClasseTeste {
 	public float getA2() {
 		return A2;
 	}
-	public void setA2(float a2) {
-		A2 = a2;
-	}
-
 }
