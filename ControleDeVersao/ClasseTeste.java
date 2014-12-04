@@ -3,6 +3,8 @@ package ControleDeVersao;
 public class ClasseTeste {
 	int A1;
 	float A2;
+	String A3;
+	
 	public int getA1() {
 		return A1;
 	}
